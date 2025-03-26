@@ -1,13 +1,18 @@
-# Vibify
+# Vibify - Choose Music Based On Your Emoji
 
-## Description
+**Vibify** is a web application that generates Spotify song recommendations based on the user's emoji and mood. Using the OpenAI API to analyze the input and fetch song links and details, Vibify creates personalized playlists for users.
 
-Vibify is a web application that generates Spotify song recommendations based on the user's emoji and mood. Using the OpenAI API to analyze the input and fetch song links and details, Vibify creates personalized playlists for users.
-
-## Features
+## 🚀 Features
 
 - Generates song recommendations based on the user's emoji and mood.
 - Retrieves Spotify song links and details.
+
+## 💻 Tech Stack
+
+- **Frontend**: NextJS, TailwindCSS
+- **Backend**: ExpressJS, OpenAI API
+
+
 
 ## Usage
 
